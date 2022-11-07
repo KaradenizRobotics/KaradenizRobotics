@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science, ML Algorithms, Fuzzy Systems**
 
-- 👯 I’m looking to collaborate on **ML/Fuzzy System applications on robotics**
+- 👯 I’m looking to collaborate on **ML/Fuzzy System applications on autonomous mobile robots/cars**
 
 - 📫 How to reach me **ahmetm.karadeniz@gmail.com**
 
