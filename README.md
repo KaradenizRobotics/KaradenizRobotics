@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karadenizrobotics&label=Profile%20views&color=0e75b6&style=flat" alt="karadenizrobotics" /> </p>
 
-- 🔭 I’m currently working on **Environment representation and obstacle avoidance algorithm for mobile robots**
+- 🔭 I’m currently working on **Machine/Deep Learning applications**
 
 - 🌱 I’m currently learning **Data Science, ML Algorithms, Fuzzy Systems**
 
