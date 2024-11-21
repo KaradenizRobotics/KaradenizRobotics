@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karadenizrobotics&label=Profile%20views&color=0e75b6&style=flat" alt="karadenizrobotics" /> </p>
 
-- 🔭 I’m currently working on **Machine/Deep Learning applications**
+- 🔭 I’m currently working on **Machine/Deep Learning and Fuzzy Signatures applications**
 
-- 🌱 I’m currently learning **Data Science, ML Algorithms, Fuzzy Systems**
+- 🌱 I’m currently learning **ML Algorithms, Optimization, Quantum Computing**
 
-- 👯 I’m looking to collaborate on **ML/Fuzzy System applications on autonomous mobile robots/cars**
+- 👯 I’m looking to collaborate on **ML/Fuzzy System applications on autonomous systems such as robots/cars**
 
 - 📫 How to reach me: **ahmetm.karadeniz@gmail.com**
 
